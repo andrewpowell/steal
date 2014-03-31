@@ -17,6 +17,7 @@ steal.config({
 			exports: "jQuery"
 		}
 	},
+    amd: true,
 	ext: {
 		js: "js",
 		css: "css",
